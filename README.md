@@ -8,8 +8,9 @@ bikeshare project
 
 ### Description
 Describing statistic for bikeshare
-### Files used
-Chigago.csv, washintong.csv, new_york_city.csv
+
+### Files used in the project
+Chigago.csv, Washintong.csv, New_york_city.csv
 
 ### Credits
 https://www.capitalbikeshare.com/system-data
